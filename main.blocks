@@ -1,1 +1,31 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="cr.^tk*+bQ1]B{I-2zeU" x="0" y="0"/><block type="device_forever" id="p,=4$N#sT}GjC5%p[5DH" x="205" y="0"/></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="2}X2VxHDq{[N2s?TL_|u">stap</variable><variable id="/C?h|ah%Nq1VV[?sy(eL">myImage</variable></variables><block type="device_gesture_event" id="jK.UHPK$WmTt7QJM0M!X" x="646" y="26"><field name="NAME">Gesture.ThreeG</field><statement name="HANDLER"><block type="variables_change" id=";#?)#VA7w#qk|WHXR~?A"><field name="VAR" id="2}X2VxHDq{[N2s?TL_|u">stap</field><value name="VALUE"><shadow type="math_number" id="%my|CSzWfFY###p+%N+f"><field name="NUM">1</field></shadow></value><next><block type="device_print_message" id="wuiyLBj5SKhj|}ENr]}K"><value name="text"><shadow type="text" id=";3lNfQC+utWlS$V*Zn6F"><field name="TEXT">amogus</field></shadow></value><next><block type="device_show_leds" id="V?m3Kiw+iTJJ)5]4kk[o"><field name="LEDS">`
+        . . # # # 
+        . # # . . 
+        . # # # # 
+        . # # # # 
+        . . # . #
+        `</field></block></next></block></next></block></statement></block><block type="device_button_event" id="1UF!p0]UBz-?G{UY*CJC" x="98" y="87"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="i.ff%`OBQ;GjZOTlVdCL"><value name="text"><shadow type="text" id="kBKT5s*ual6vd3F{3!yU"><field name="TEXT">lets walk!</field></shadow></value><next><block type="device_show_leds" id="!2X2,z#gEh4Qd}?$yQX{"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_print_message" id="~#~S(Ki5)7xjPeREj?mn"><value name="text"><shadow type="text" id="YUz_hNDXjdu]|[?IJl,m"><field name="TEXT">tip doe een elastiekje om je been en doe de microbit tegen je been aan</field></shadow></value></block></next></block></next></block></statement></block><block type="pxt-on-start" id="52{|QgW@X-z4B|W)p.Tj" x="473" y="161"><statement name="HANDLER"><block type="variables_set" id=")ZS_~w,$YN_J3d+,lzu4"><field name="VAR" id="2}X2VxHDq{[N2s?TL_|u">stap</field><value name="VALUE"><shadow type="math_number" id="bueXEXKP(-!.qC^~h4`t"><field name="NUM">0</field></shadow></value><next><block type="device_show_leds" id="8U,0VF/9o}oHAknqLHi!"><field name="LEDS">`
+        # . . . # 
+        # # # # # 
+        # . # . # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id="qJ?Cb$48e@#y11QwjmVx"><value name="text"><shadow type="text" id=")qbLJ4+IG)Ao27JDSk+z"><field name="TEXT">welcome to cat bit!</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="-p(%VZ[0hNxXX$%~3z|!" x="52" y="512"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="cNAB-G(^RrL3)n!d7Ql2"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="ka-VdFsu#@~f!1v.6`~+"><field name="LEDS">`
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        # . # . # 
+        # . # . #
+        `</field><next><block type="device_print_message" id="MLJv-s@siX|Xb((?SIo0"><value name="text"><shadow type="text" id="*2Fxo$m0JEp,ZHbvcTn#"><field name="TEXT">error!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</field></shadow></value></block></next></block></next></block></statement></block></xml>
