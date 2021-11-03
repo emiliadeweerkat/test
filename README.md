@@ -1,6 +1,8 @@
 
 > Open deze pagina op [https://emiliadeweerkat.github.io/test/](https://emiliadeweerkat.github.io/test/)
 
+# Dit is het test project
+
 ## Gebruiken als extensie
 
 Deze repository kan worden toegevoegd als **extensie** in MakeCode.
